@@ -81,4 +81,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Let me know if this suits your needs or if you want further adjustments!
 
 ## GUI
-![Alt Text](C:\Users\dell\Downloads\Internship_Project\HousepricePred-project2\PRCP-1020-HousePricePred\Data\House_price_gui1.png)
+!(C:\Users\dell\Downloads\Internship_Project\HousepricePred-project2\PRCP-1020-HousePricePred\Data\House_price_gui1.png)
