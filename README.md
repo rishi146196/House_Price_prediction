@@ -81,5 +81,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Let me know if this suits your needs or if you want further adjustments!
 
 ## GUI
-![Example Image](https://github.com/rishi/your-repository/blob/main/House_price_gui1.png?raw=true)
+![Example Image](https://github.com/rishi146196/House_Price_prediction/blob/main/House_price_gui1.png?raw=true)
 
