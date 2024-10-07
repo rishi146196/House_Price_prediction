@@ -85,3 +85,73 @@ Let me know if this suits your needs or if you want further adjustments!
 
 ![Example Image](https://github.com/rishi146196/House_Price_prediction/blob/main/House_price_gui1.png?raw=true)
 
+# HOW TO RUN GUI
+To run a Streamlit app, you need to follow a series of steps. Here’s a complete guide along with the commands you'll need:
+
+### Step-by-Step Guide to Running a Streamlit App
+
+#### 1. **Install Streamlit**
+
+If you haven’t installed Streamlit yet, you can do so using pip. Open your terminal or command prompt and run:
+
+```bash
+pip install streamlit
+```
+
+#### 2. **Create a Streamlit App**
+
+1. Create a new Python file for your Streamlit app. You can name it something like `app.py`. Use a code editor to write your app. For example, you can create it in your terminal:
+
+   ```bash
+   touch app.py
+   ```
+
+2. Open `app.py` in your code editor and add your Streamlit code. Here’s a simple example:
+
+   ```python
+   import streamlit as st
+
+   st.title("My First Streamlit App")
+   st.write("Hello, world!")
+   ```
+
+#### 3. **Run the Streamlit App**
+
+Navigate to the directory where your `app.py` file is located in your terminal and run the following command:
+
+```bash
+streamlit run app.py
+```
+
+#### 4. **Access the App**
+
+Once you run the command, Streamlit will start a local server and provide you with a URL (usually `http://localhost:8501`). Open this URL in your web browser to see your Streamlit app in action.
+
+### Summary of Commands
+
+1. **Install Streamlit:**
+   ```bash
+   pip install streamlit
+   ```
+
+2. **Create a Streamlit app file:**
+   ```bash
+   touch app.py
+   ```
+
+3. **Run the Streamlit app:**
+   ```bash
+   streamlit run app.py
+   ```
+
+### Stopping the App
+
+To stop the Streamlit server, go back to the terminal where it’s running and press `Ctrl + C`.
+
+### Additional Tips
+
+- If you make changes to your `app.py`, the Streamlit app will automatically refresh in the browser.
+- You can also run other Python scripts that are designed for Streamlit in the same way by replacing `app.py` with your script’s filename.
+
+Feel free to reach out if you need help with anything else related to Streamlit!
+
